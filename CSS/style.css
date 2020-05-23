@@ -9,6 +9,9 @@ h1
     text-align: center;
     margin-bottom: 70px;
 }
+h2{
+    all:initial;
+}
 h2{    
     width: 60%;
     float: right;
