@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html>
     <head>
     <title>assignment-week2</title>
-	<link rel="stylesheet" type="text/css" href="CSS/mystyle.css">  
+	<link rel="stylesheet" type="text/css" href="CSS/style.css">  
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     </head>
     
