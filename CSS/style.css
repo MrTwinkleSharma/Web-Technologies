@@ -9,16 +9,7 @@ h1
     text-align: center;
     margin-bottom: 70px;
 }
-h2{
-    all:none;
-}
-div{
-    all:none;
-}
-body{
-    all:none;
-}
-.markdown-body{
+.container-lg, px-3, my-5, markdown-body{
     all:none;
 }
    
