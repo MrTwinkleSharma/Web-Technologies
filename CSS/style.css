@@ -12,6 +12,12 @@ h1
 h2{
     all:none;
 }
+div{
+    all:none;
+}
+body{
+    all:none;
+}
 .markdown-body{
     all:none;
 }
