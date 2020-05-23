@@ -9,7 +9,7 @@ h1
     text-align: center;
     margin-bottom: 70px;
 }
-.container-lg, px-3, my-5, markdown-body{
+.container-lg, .px-3, .my-5, .markdown-body{
     all:none;
 }
    
